@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIBFFTU1MGb38ffvE9q85e+GjJOeX03hqB2rEyr6GyiVIBrDMzjYgQdCwrt2HYUmDMC02CnQbid12TdSVkK6QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandra\\Desktop\\old\\Cat\\Cat\\CatLib\\CatLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
